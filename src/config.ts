@@ -48,11 +48,12 @@ export const SIDEBAR = {
 		{ text: '', header: true },
 		{ text: 'Знакомство с Dialute', header: true },
 		{ text: '🌵 Введение', link: 'ru/1.introduction' },
-		{ text: '🍃 Быстрый старт', link: 'ru/2.startup' },
-		{ text: '🌱 Разработка CanvasApp', link: 'ru/3.canvasapp' },
+		{ text: '🌿 Концепция фреймворка', link: 'ru/2.concept' },
+		{ text: '🍃 Быстрый старт', link: 'ru/3.startup' },
+		{ text: '🌱 Разработка CanvasApp', link: 'ru/4.canvasapp' },
 
 		{ text: 'Продвинутые техники', header: true },
-		{ text: '🍀 События', link: 'ru/4.events' },
+		{ text: '🍀 События', link: 'ru/5.events' },
 
 		{ text: 'Документация по типам', header: true },
 	],
